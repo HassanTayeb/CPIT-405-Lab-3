@@ -1,0 +1,14 @@
+.image-preview img{
+    border-top: 30px solid skyblue;
+    border-right: 30px solid lightpink;
+    border-bottom: 30px solid lightgreen;
+    border-left: 30px solid #ffeed4;
+}
+table thead th{
+    border: 1px solid black;
+    padding-right: 150px;
+}
+table tr{
+    border: 1px solid black;
+    padding-right: 300px;
+}
